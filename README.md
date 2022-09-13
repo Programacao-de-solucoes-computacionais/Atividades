@@ -7,7 +7,7 @@
 <br>🧠 Tenho como objetivo melhorar meu raciocinio lógico e aprender a línguagem Java. </br>
 
 ### Wikis
-Venha ver as minhas<a href="https://github.com/Baralou/Basic-Java-study/wiki/Explaining-the-Multiplies-Homework." target="blank">Wikis</a>
+Vem ver minhas <a href="https://github.com/Baralou/Basic-Java-study/wiki/Explaining-the-Multiplies-Homework." target="blank"> Wikis! <img href="https://github.com/Baralou/Basic-Java-study/wiki" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Enchanting_Table.gif/revision/latest?cb=20220222115558" align="center" height="40" width="40"/></a>
 
 # Basic-Java-study
 
@@ -15,4 +15,4 @@ Venha ver as minhas<a href="https://github.com/Baralou/Basic-Java-study/wiki/Exp
 <br>🧠 I aim to improve my logical thinking and learn the Java language. </br>
 
 ### Wiki
- Come see my  <a href="https://github.com/Baralou/Basic-Java-study/wiki/Explaining-the-Multiplies-Homework." target="blank">tasks Wiki.</a>
+ Come see my  <a href="https://github.com/Baralou/Basic-Java-study/wiki/Explaining-the-Multiplies-Homework." target="blank">tasks Wiki! <img href="https://github.com/Baralou/Basic-Java-study/wiki" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Enchanting_Table.gif/revision/latest?cb=20220222115558" align="center" height="40" width="40"/></a>
