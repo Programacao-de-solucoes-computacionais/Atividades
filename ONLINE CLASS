@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    Scanner dados = new Scanner(System.in);
+    System.out.println("Informe o valor de quatro boletos:");
+    float b1 = dados.nextFloat();
+    float b2 = dados.nextFloat();
+    float b3 = dados.nextFloat();
+    float b4 = dados.nextFloat();
+
+    System.out.println("Qual é o seu salário líquido? ");
+    float agua = dados.nextFloat();
+    float total = b1+b2+b3+b4;
+    float conta = (agua-(b1+b2+b3+b4)); 
+    
+    System.out.printf("O total que você tem que pagar é de: R$%.2f%n", total);
+    System.out.printf("E sobra R$%.2f do seu salário. ", conta);
+    
+  }
+}
